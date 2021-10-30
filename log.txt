@@ -1,0 +1,11 @@
+Inicio aplicación 
+
+{cmd: info, src:GUI, dst: Kernel, msg: 'Listo'}-> 2021-10-30 08:47:36.073900
+{cmd: info, src:Modulo de archivos, dst: Kernel, msg: 'Listo'}-> 2021-10-30 08:47:36.076341
+{cmd: info, src:Modulo de aplicaciones, dst: Kernel, msg: 'Listo'} -> 2021-10-30 08:47:36.076341
+
+Etapa de Mensajería
+
+ Etapa de finalización
+
+{cmd:END, src: aplicación, dest:kernel, msg ="Se cerró la aplicación desde windows"} -> 2021-10-30 08:47:55.279470
